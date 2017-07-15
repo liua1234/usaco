@@ -1,5 +1,6 @@
 <html>
 <head>
+<p><strong>github还有手机版。。。。。。</strong></p>
 <p><font size=3 color=#FF0000><strong>1.6万位π值护体</strong></font></p>
 </head>
 </html>
